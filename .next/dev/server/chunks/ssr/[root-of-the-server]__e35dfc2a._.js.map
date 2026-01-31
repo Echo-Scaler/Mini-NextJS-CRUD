@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///Users/kyawwaiyan/Documents/Node-Projects/node-next-crud/src/app/page.tsx"],"sourcesContent":["import Link from 'next/link';\n\nexport default function Home() {\n  return (\n    <main className=\"flex min-h-screen flex-col items-center justify-center p-24\">\n      <h1 className=\"text-4xl font-bold mb-8\">Next.js Mini CRUD</h1>\n      <Link href=\"/items\" className=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Go to Items\n      </Link>\n    </main>\n  )\n}\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAK,WAAU;;0BACd,8OAAC;gBAAG,WAAU;0BAA0B;;;;;;0BACxC,8OAAC,0LAAI;gBAAC,MAAK;gBAAS,WAAU;0BAAuE;;;;;;;;;;;;AAK3G"}}]
+}
